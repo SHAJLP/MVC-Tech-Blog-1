@@ -4,7 +4,7 @@ const { Comment } = require("../../models");
 const sequelize = require("../../config/connection");
 const withAuth = require("../../utils/auth");
 
-// GET all display all related comments when a post/:id is viewed
+// GET display related comments when a post/:id is viewed
 router.get("/", (req, res) => {
   Comment.findAll({})
     .then((commentData) => res.json(commentData))
