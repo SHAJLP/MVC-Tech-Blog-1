@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(227, 226, 240);
+    background-color: #252323;
 
 }
 
@@ -22,7 +22,7 @@ body {
     border-style: solid;
     margin-bottom: 5px;
     padding: 2px;
-    background-color: rgb(61, 209, 214);
+    background-color: #A09EBB;
 }
 
 .blogDescMain {
@@ -39,13 +39,13 @@ body {
     font-style: italic;
     font-size: 12px;
     padding: 5px;
-    color: rgb(85, 62, 121);
+    color: #F0544F;
 }
 
 .blogBoxCont {
     margin-top: 10px;
     border-style: solid;
-    background-color: rgb(135, 111, 190);
+    background-color: #84A59D;
 }
 
 .formCont {
@@ -61,7 +61,7 @@ body {
     margin-right: auto;
     margin-top: 10px;
     max-width: 75%;
-    background-color: rgb(152, 147, 224);
+    background-color: #FDF0D5;
 }
 
 .commentOwner {
@@ -75,7 +75,7 @@ body {
 .commentText {
     font-weight: bold;
     padding-top: 10px;
-    background-color: rgb(126, 99, 224);
+    background-color: #F0544F;
 }
 
 .commentCont {
@@ -83,20 +83,20 @@ body {
 }
 
 .headerRow {
-    background-color: rgb(209, 150, 206);
+    background-color:#F0544F);
     margin-bottom: 10px;
 }
 
 a:link {
-    color: rgb(68, 89, 117);
+    color: #3993DD;
 }
 
 a:visited {
-    color: rgb(79, 63, 168);
+    color: #29E7CD;
 }
 
 a:hover {
-    color: rgb(143, 11, 11);
+    color: #F62DAE;
 }
 
 .login {
