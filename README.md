@@ -4,7 +4,7 @@ Description
 
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
 
-Screenshot
+
 
 Technologies
 JS
@@ -18,3 +18,4 @@ MySQL
 Links
 
  https://shajlp.github.io/MVC-Tech-Blog-1/
+ https://hidden-refuge-78478.herokuapp.com/ 
